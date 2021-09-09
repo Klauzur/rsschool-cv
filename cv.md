@@ -36,4 +36,4 @@ function digitize(n) {
      * Basic knowledge HTML, CSS, JavaScript
 ## Languages 
 * Russian (Native)
-* English (A2) Epam Test
+* English (A2) Epam Tes
