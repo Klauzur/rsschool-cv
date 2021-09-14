@@ -28,7 +28,7 @@
 	    margin: auto
 	}
 	.container .aside .header {
-	    width: 100%;
+		width: 100%;
 	    height: 40px;
 	    background-color: #585857;
 	}
@@ -77,6 +77,11 @@
 	    padding-top: 20px;
 	    background-color: #fff;
 	}
+	.hljs.javascript {
+		padding: 0px;
+		font-family: "Ubuntu", sans-serif;;
+        background: gray;
+	}	
 	.code-example_discrp {
 		text-indent: 10px; 
 	    text-align: justify; 
